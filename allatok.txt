@@ -1,11 +1,9 @@
 roka
-sun
 oroszlan
-foka
 gepard
 kutya
 macska
-tengeri malac
 majom
 elefánt
 béka
+egér
